@@ -1,4 +1,4 @@
-cvat/ui：dev
+cvat/ui:dev
 traefik:v2.10
 openpolicyagent/opa:0.63.0
 clickhouse/clickhouse-server:23.11-alpine
