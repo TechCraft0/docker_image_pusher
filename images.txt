@@ -10,3 +10,5 @@ timberio/vector:0.26.0-alpine
 grafana/grafana-oss:10.1.2
 ubuntu:22.04
 ubuntu:20.04
+ubuntu:18.04
+ubuntu:latest
