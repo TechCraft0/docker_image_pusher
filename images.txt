@@ -26,3 +26,4 @@ certbot/certbot
 nginx:latest
 pingcap/tidb:v8.4.0
 justsong/one-api:latest
+nvidia/cuda:12.8.2-devel-ubuntu22.04
